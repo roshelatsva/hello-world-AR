@@ -1,0 +1,452 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.0.5eb040c7)"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 106680,
+            "type": "VEC3",
+            "max": [
+                5.6950788497924809,
+                20.853017807006837,
+                7.150928497314453
+            ],
+            "min": [
+                -27.94416618347168,
+                -9.887513160705567,
+                -33.93532180786133
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 106680,
+            "type": "VEC3",
+            "max": [
+                0.9999961853027344,
+                1.0,
+                0.999992847442627
+            ],
+            "min": [
+                -0.9999963045120239,
+                -1.0,
+                -0.9999936819076538
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 279360,
+            "type": "SCALAR",
+            "max": [
+                106679
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 708,
+            "type": "VEC3",
+            "max": [
+                0.9944292306900024,
+                0.9944292902946472,
+                1.0
+            ],
+            "min": [
+                -0.9944292306900024,
+                -0.9944292306900024,
+                -0.8954886198043823
+            ]
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 708,
+            "type": "VEC3",
+            "max": [
+                0.9797228574752808,
+                0.9797228574752808,
+                0.9136017560958862
+            ],
+            "min": [
+                -0.9797228574752808,
+                -0.9797228574752808,
+                -0.9992587566375732
+            ]
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 4278,
+            "type": "SCALAR",
+            "max": [
+                707
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 6,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 4068,
+            "type": "VEC3",
+            "max": [
+                0.9002278447151184,
+                1.2665611505508423,
+                0.9147363901138306
+            ],
+            "min": [
+                -0.9029259085655212,
+                -1.2558059692382813,
+                -2.7899794578552248
+            ]
+        },
+        {
+            "bufferView": 7,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 4068,
+            "type": "VEC3",
+            "max": [
+                0.9999839663505554,
+                0.9999871253967285,
+                0.9999920129776001
+            ],
+            "min": [
+                -0.9999602437019348,
+                -0.9999862313270569,
+                -0.9998946785926819
+            ]
+        },
+        {
+            "bufferView": 8,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 24132,
+            "type": "SCALAR",
+            "max": [
+                4067
+            ],
+            "min": [
+                0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 3906024,
+            "uri": "result.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 1280160,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1280160,
+            "byteLength": 1280160,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2560320,
+            "byteLength": 1117440,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3677760,
+            "byteLength": 8496,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3686256,
+            "byteLength": 8496,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3694752,
+            "byteLength": 17112,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3711864,
+            "byteLength": 48816,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3760680,
+            "byteLength": 48816,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3809496,
+            "byteLength": 96528,
+            "target": 34963
+        }
+    ],
+    "images": [
+        {
+            "uri": "black-fabric-seamless-texture-texture-map-d-d-texture-map-d-programms-black-white-seamless-texture-can-be-used-as-110044312.jpg"
+        },
+        {
+            "uri": "96151392-camouflage-texture-of-military-cap-victory-day-.jpg"
+        }
+    ],
+    "materials": [
+        {
+            "name": "Material.001",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "baseColorFactor": [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.873508870601654
+            }
+        },
+        {
+            "name": "Material.002",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.0010314254323020578,
+                    0.0010314254323020578,
+                    0.0010314254323020578,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.9998290538787842
+            }
+        },
+        {
+            "name": "lambert1",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 1
+                },
+                "baseColorFactor": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.9292893409729004
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Torus",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 2,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Cylinder",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 1,
+                    "indices": 5,
+                    "attributes": {
+                        "POSITION": 3,
+                        "NORMAL": 4
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Mesh",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 2,
+                    "indices": 8,
+                    "attributes": {
+                        "POSITION": 6,
+                        "NORMAL": 7
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "children": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "name": "Light",
+            "matrix": [
+                -29.086467742919923,
+                -5.518903732299805,
+                -95.51712036132813,
+                0.0,
+                56.639312744140628,
+                79.46723937988281,
+                -21.839115142822267,
+                0.0,
+                77.11009979248047,
+                -60.45246887207031,
+                -19.988338470458986,
+                0.0,
+                407.6245422363281,
+                552.4674682617188,
+                -100.54539489746094,
+                1.0
+            ]
+        },
+        {
+            "name": "Camera",
+            "matrix": [
+                -65.15579986572266,
+                -44.527137756347659,
+                -61.41706848144531,
+                0.0,
+                -32.40135192871094,
+                89.53958129882813,
+                -30.542081832885743,
+                0.0,
+                68.59208679199219,
+                0.000020861623852397316,
+                -72.76760864257813,
+                0.0,
+                735.88916015625,
+                495.8309326171875,
+                692.5791015625,
+                1.0
+            ]
+        },
+        {
+            "name": "Torus",
+            "matrix": [
+                6.2841081619262699,
+                -6.284109115600586,
+                -0.00000368780661119672,
+                0.0,
+                0.00000191507683666714,
+                -0.0000023660415990889307,
+                7.295125961303711,
+                0.0,
+                -5.158432483673096,
+                -5.158431529998779,
+                -3.188800121733948e-7,
+                0.0,
+                0.6698310971260071,
+                78.43916320800781,
+                -40.1346435546875,
+                1.0
+            ],
+            "mesh": 0
+        },
+        {
+            "name": "Cylinder",
+            "matrix": [
+                7.385486602783203,
+                7.758203506469727,
+                -24.706100463867189,
+                0.0,
+                2.7279953956604006,
+                -25.781402587890626,
+                -7.2803802490234379,
+                0.0,
+                -1.8772944211959839,
+                -0.03689649701118469,
+                -0.5727728605270386,
+                0.0,
+                87.04434967041016,
+                293.42852783203127,
+                36.14693832397461,
+                1.0
+            ],
+            "mesh": 1
+        },
+        {
+            "name": "polySurface1",
+            "matrix": [
+                100.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -0.000016292067812173629,
+                -100.0,
+                0.0,
+                0.0,
+                100.0,
+                -0.000016292067812173629,
+                0.0,
+                1.462546706199646,
+                280.73822021484377,
+                0.0,
+                1.0
+            ],
+            "mesh": 2
+        }
+    ],
+    "samplers": [
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "textures": [
+        {
+            "source": 0,
+            "sampler": 0
+        },
+        {
+            "source": 1,
+            "sampler": 1
+        }
+    ],
+    "scene": 0
+}
